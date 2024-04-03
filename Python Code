@@ -1,0 +1,1 @@
+This file contains access to the jupyter notebook which contains the Python code which further utilizes various python libraries like NumPy, Pandas etc and other ML libraries like SciKit Learn which help in utilizing various ML algorithms for predicting the Output with accuracy.
